@@ -72,10 +72,6 @@ export default function Hero() {
                   src="/profile.jpg"
                   alt="Álvaro Fernández"
                   className="w-full h-full object-cover grayscale group-hover:grayscale-0 transition-all duration-700 ease-in-out scale-110 group-hover:scale-100"
-                  onError={(e) => {
-                    e.currentTarget.src = "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=800&auto=format&fit=crop";
-                  }}
-                  referrerPolicy="no-referrer"
                 />
               </div>
           </div>

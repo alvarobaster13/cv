@@ -3,7 +3,8 @@
     "allow": [
       "Bash(npm install)",
       "Bash(get-windowscapability *)",
-      "Bash(where-object *)"
+      "Bash(where-object *)",
+      "Bash(gh *)"
     ]
   },
   "$version": 3
