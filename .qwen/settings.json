@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install)",
+      "Bash(get-windowscapability *)",
+      "Bash(where-object *)"
+    ]
+  },
+  "$version": 3
+}
