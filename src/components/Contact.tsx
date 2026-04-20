@@ -25,7 +25,7 @@ export default function Contact() {
 
           <div className="flex flex-col sm:flex-row justify-center gap-6 pt-8">
             <motion.a 
-              href="mailto:alvarofedrndezcerezo13@gmail.com"
+              href="mailto:alvaroferndezcerezo13@gmail.com"
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
               className="btn-gradient px-12 py-5 rounded-full text-xl shadow-2xl"
